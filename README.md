@@ -1,6 +1,6 @@
 # Saylani-form
 This is my first Git repositry.
 <br>
-Author-Hurera
+<s>Author-Hurera</s>
 <hr>
 
